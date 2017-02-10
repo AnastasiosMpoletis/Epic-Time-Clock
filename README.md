@@ -1,6 +1,6 @@
 # Epic-Time-Clock
 
-Link: http://epictimeclock.webege.com
+Link: http://anastasiosmpoletis.webege.com/epicTimeClock/index.html
 
 An epic multimedia clock.
 
